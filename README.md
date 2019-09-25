@@ -15,3 +15,13 @@ To run the client run:
 To run the server run:
 
 ## `node server`
+
+## Manual Prod Mimic
+
+RUN:
+
+## `yarn build`
+
+Then:
+
+## `yarn server`
