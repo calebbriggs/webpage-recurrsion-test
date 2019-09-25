@@ -14,14 +14,14 @@ To run the client run:
 
 To run the server run:
 
-## `node server`
+### `node server`
 
 ## Manual Prod Mimic
 
 RUN:
 
-## `yarn build`
+### `yarn build`
 
 Then:
 
-## `yarn serve`
+### `yarn serve`
