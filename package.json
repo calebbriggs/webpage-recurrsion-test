@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "parcel public/index.html -p 3000 --open",
-    "build": "rm -rf dist&&parcel build public/index.html",
+    "build": "rm -rf dist&&parcel build --no-content-hash public/index.html --out-dir dist",
     "serve": "serve -s dist"
   },
   "eslintConfig": {
