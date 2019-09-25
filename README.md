@@ -24,4 +24,4 @@ RUN:
 
 Then:
 
-## `yarn server`
+## `yarn serve`
